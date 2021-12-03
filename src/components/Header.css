@@ -1,6 +1,13 @@
 .header {
     text-align: center;
-    border-bottom: 4px solid var(--primary-color);
+    border-bottom: 3px solid var(--primary-color);
+    border-radius: 5rem;
     font-size: 1.6rem;
     font-weight: bolder;
+    background-color: black;
+}
+.header h1 {
+    background-color: black;
+    margin-top: 0;
+    padding-top: 1.5rem;
 }
